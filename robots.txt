@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://udonaiqi.github.io/ITM/sitemap_index.txt
+Sitemap: https://udonaiqi.github.io/ZOm/sitemap_index.txt
+Sitemap: https://udonaiqi.github.io/kSN/sitemap_index.txt
+Sitemap: https://udonaiqi.github.io/rVm/sitemap_index.txt
